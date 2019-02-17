@@ -42,7 +42,7 @@ Time per request:       5.398 [ms] (mean)
 Time per request:       0.540 [ms] (mean, across all concurrent requests)
 Transfer rate:          586.11 [Kbytes/sec] received
 ```
-## Route /statik/404
+## Route /404
 
 ```
 ab -c 10 -n 30000 http://localhost:8080/404
